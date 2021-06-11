@@ -1,1 +1,1 @@
-Collection of python scripts/ cloudformation templates to interact with AWS cloud resources
+Collection of scripts/ templates to interact with cloud resources
